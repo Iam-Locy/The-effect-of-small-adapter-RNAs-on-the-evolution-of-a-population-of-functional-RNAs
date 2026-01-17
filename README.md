@@ -1,4 +1,4 @@
-Report and files for the project on the effect ofsmall adapter RNAs on the evolution of a population of functional RNAs
+Report and files for the project on the effect of small adapter RNAs on the evolution of a population of functional RNAs
 
 The project was done by Kóródi Lőrinc from 2023/09 to 2024/01
 
